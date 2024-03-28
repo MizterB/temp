@@ -1,4 +1,5 @@
 :imagesdir: ./images
+:imagesdir: ../raw/main/doc/images
 Repo Home
 
 image::hybrids36_l.png[]
